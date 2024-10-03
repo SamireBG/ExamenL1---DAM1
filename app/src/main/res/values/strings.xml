@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">EX1_4693_Bobadilla_Guimaray_Samire_Aaron</string>
+    <string name="titulo">Factura Movil</string>
+    <string name="datos">Datos del Cliente</string>
+    <string name="nombre">Nombre Cliente</string>
+    <string name="dni">DNI</string>
+    <string name="servicio">Servicio Instalación</string>
+    <string name="duo">Duo - Teléfono e Internet</string>
+    <string name="trio">Trio - Teléfono + TV + Internet</string>
+    <string name="internet">Solo Internet</string>
+    <string name="telefono">Solo Teléfono</string>
+    <string name="cable">Solo Cable</string>
+    <string name="costo">Costo Servicio</string>
+    <string name="insta">Costo Instalación</string>
+    <string name="descuento">Descuento</string>
+    <string name="total">Total a Pagar</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="imprimir">IMPRIMIR</string>
+    <string name="resumen">Resumen del Servicio</string>
+</resources>
